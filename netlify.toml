@@ -22,3 +22,9 @@ command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.99.1"
+
+[[plugins]]
+package = "netlify-plugin-cloudinary"
+
+[plugins.inputs]
+cloudName = "paulportfolio"
