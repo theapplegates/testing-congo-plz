@@ -7,7 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2022 Congo contributors</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>/tags/sample/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>/tags/website/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>down</title>
+      <link>/tags/down/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/down/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expensive</title>
+      <link>/tags/expensive/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/expensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jacket</title>
+      <link>/tags/jacket/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jacket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TheNorthFace</title>
+      <link>/tags/thenorthface/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/thenorthface/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>docs</title>
       <link>/tags/docs/</link>
@@ -50,15 +113,6 @@
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/icons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sample</title>
-      <link>/tags/sample/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sample/</guid>
       <description></description>
     </item>
     

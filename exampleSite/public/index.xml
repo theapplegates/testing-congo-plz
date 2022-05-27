@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2022 Congo contributors</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some website design art</title>
+      <link>/samples/am-no-artist/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/samples/am-no-artist/</guid>
+      <description>I found a blog template and they used illustrations I liked.</description>
+    </item>
+    
+    <item>
+      <title>The Secrets Of Down</title>
+      <link>/samples/all-about-down/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/samples/all-about-down/</guid>
+      <description>Who knew down was so important to a warm jacket</description>
+    </item>
+    
     <item>
       <title>Upgrading from Congo 1.x</title>
       <link>/docs/version-2/upgrade/</link>
